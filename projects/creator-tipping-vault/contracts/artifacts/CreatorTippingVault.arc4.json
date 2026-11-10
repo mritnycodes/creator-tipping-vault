@@ -1,0 +1,57 @@
+{
+  "name": "CreatorTippingVault",
+  "desc": "",
+  "methods": [
+    {
+      "name": "createApplication",
+      "desc": "Initialize contract recipients",
+      "args": [
+        {
+          "name": "primary",
+          "type": "address"
+        },
+        {
+          "name": "coCreator",
+          "type": "address"
+        },
+        {
+          "name": "treasury",
+          "type": "address"
+        }
+      ],
+      "returns": {
+        "type": "void"
+      }
+    },
+    {
+      "name": "tip",
+      "desc": "Tip a post and split revenue automatically (85% / 10% / 5%)",
+      "args": [
+        {
+          "name": "postId",
+          "type": "string"
+        },
+        {
+          "name": "payTxn",
+          "type": "pay"
+        }
+      ],
+      "returns": {
+        "type": "void"
+      }
+    },
+    {
+      "name": "getPostTotalTips",
+      "desc": "View method to fetch total tips for a specific post",
+      "args": [
+        {
+          "name": "postId",
+          "type": "string"
+        }
+      ],
+      "returns": {
+        "type": "uint64"
+      }
+    }
+  ]
+}

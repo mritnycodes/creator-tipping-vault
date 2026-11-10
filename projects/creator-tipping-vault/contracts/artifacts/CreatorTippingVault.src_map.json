@@ -1,0 +1,1541 @@
+[
+  {
+    "teal": 1,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      0
+    ]
+  },
+  {
+    "teal": 2,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "teal": 3,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ]
+  },
+  {
+    "teal": 15,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      44,
+      45
+    ]
+  },
+  {
+    "teal": 16,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      46
+    ]
+  },
+  {
+    "teal": 17,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      47,
+      48
+    ]
+  },
+  {
+    "teal": 18,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      49
+    ]
+  },
+  {
+    "teal": 19,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      50,
+      51
+    ]
+  },
+  {
+    "teal": 20,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      52
+    ]
+  },
+  {
+    "teal": 21,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ]
+  },
+  {
+    "teal": 25,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "errorMessage": "The requested action is not implemented in this contract. Are you using the correct OnComplete? Did you set your app ID?",
+    "pc": [
+      79
+    ]
+  },
+  {
+    "teal": 30,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      80,
+      81,
+      82
+    ]
+  },
+  {
+    "teal": 31,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      83
+    ]
+  },
+  {
+    "teal": 32,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      84
+    ]
+  },
+  {
+    "teal": 33,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      85
+    ]
+  },
+  {
+    "teal": 34,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      86
+    ]
+  },
+  {
+    "teal": 37,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "errorMessage": "argument 0 (treasury) for createApplication must be a address",
+    "pc": [
+      87
+    ]
+  },
+  {
+    "teal": 40,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      88,
+      89,
+      90
+    ]
+  },
+  {
+    "teal": 41,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      91
+    ]
+  },
+  {
+    "teal": 42,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      92
+    ]
+  },
+  {
+    "teal": 43,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      93
+    ]
+  },
+  {
+    "teal": 44,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      94
+    ]
+  },
+  {
+    "teal": 47,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "errorMessage": "argument 1 (coCreator) for createApplication must be a address",
+    "pc": [
+      95
+    ]
+  },
+  {
+    "teal": 50,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      96,
+      97,
+      98
+    ]
+  },
+  {
+    "teal": 51,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      99
+    ]
+  },
+  {
+    "teal": 52,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      100
+    ]
+  },
+  {
+    "teal": 53,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      101
+    ]
+  },
+  {
+    "teal": 54,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      102
+    ]
+  },
+  {
+    "teal": 57,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "errorMessage": "argument 2 (primary) for createApplication must be a address",
+    "pc": [
+      103
+    ]
+  },
+  {
+    "teal": 60,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "teal": 61,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      107
+    ]
+  },
+  {
+    "teal": 62,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      108
+    ]
+  },
+  {
+    "teal": 68,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      109,
+      110,
+      111
+    ]
+  },
+  {
+    "teal": 72,
+    "source": "contracts/CreatorTippingVault.algo.ts:16",
+    "pc": [
+      112
+    ]
+  },
+  {
+    "teal": 73,
+    "source": "contracts/CreatorTippingVault.algo.ts:16",
+    "pc": [
+      113,
+      114
+    ]
+  },
+  {
+    "teal": 74,
+    "source": "contracts/CreatorTippingVault.algo.ts:16",
+    "pc": [
+      115
+    ]
+  },
+  {
+    "teal": 78,
+    "source": "contracts/CreatorTippingVault.algo.ts:17",
+    "pc": [
+      116
+    ]
+  },
+  {
+    "teal": 79,
+    "source": "contracts/CreatorTippingVault.algo.ts:17",
+    "pc": [
+      117,
+      118
+    ]
+  },
+  {
+    "teal": 80,
+    "source": "contracts/CreatorTippingVault.algo.ts:17",
+    "pc": [
+      119
+    ]
+  },
+  {
+    "teal": 84,
+    "source": "contracts/CreatorTippingVault.algo.ts:18",
+    "pc": [
+      120
+    ]
+  },
+  {
+    "teal": 85,
+    "source": "contracts/CreatorTippingVault.algo.ts:18",
+    "pc": [
+      121,
+      122
+    ]
+  },
+  {
+    "teal": 86,
+    "source": "contracts/CreatorTippingVault.algo.ts:18",
+    "pc": [
+      123
+    ]
+  },
+  {
+    "teal": 87,
+    "source": "contracts/CreatorTippingVault.algo.ts:15",
+    "pc": [
+      124
+    ]
+  },
+  {
+    "teal": 92,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      125,
+      126
+    ]
+  },
+  {
+    "teal": 93,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      127
+    ]
+  },
+  {
+    "teal": 94,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      128
+    ]
+  },
+  {
+    "teal": 95,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      129
+    ]
+  },
+  {
+    "teal": 96,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      130,
+      131
+    ]
+  },
+  {
+    "teal": 97,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      132
+    ]
+  },
+  {
+    "teal": 98,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      133
+    ]
+  },
+  {
+    "teal": 101,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "errorMessage": "argument 0 (payTxn) for tip must be a pay transaction",
+    "pc": [
+      134
+    ]
+  },
+  {
+    "teal": 104,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      135,
+      136,
+      137
+    ]
+  },
+  {
+    "teal": 105,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      138,
+      139,
+      140
+    ]
+  },
+  {
+    "teal": 108,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      141,
+      142,
+      143
+    ]
+  },
+  {
+    "teal": 109,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      144
+    ]
+  },
+  {
+    "teal": 110,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      145
+    ]
+  },
+  {
+    "teal": 116,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      146,
+      147,
+      148
+    ]
+  },
+  {
+    "teal": 119,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      149
+    ]
+  },
+  {
+    "teal": 120,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      150,
+      151
+    ]
+  },
+  {
+    "teal": 127,
+    "source": "contracts/CreatorTippingVault.algo.ts:26",
+    "pc": [
+      152,
+      153
+    ]
+  },
+  {
+    "teal": 128,
+    "source": "contracts/CreatorTippingVault.algo.ts:27",
+    "pc": [
+      154,
+      155
+    ]
+  },
+  {
+    "teal": 129,
+    "source": "contracts/CreatorTippingVault.algo.ts:27",
+    "pc": [
+      156,
+      157
+    ]
+  },
+  {
+    "teal": 130,
+    "source": "contracts/CreatorTippingVault.algo.ts:27",
+    "pc": [
+      158
+    ]
+  },
+  {
+    "teal": 133,
+    "source": "contracts/CreatorTippingVault.algo.ts:27",
+    "errorMessage": "transaction verification failed: {\"txn\":\"payTxn\",\"field\":\"receiver\",\"expected\":\"this.app.address\"}",
+    "pc": [
+      159
+    ]
+  },
+  {
+    "teal": 137,
+    "source": "contracts/CreatorTippingVault.algo.ts:30",
+    "pc": [
+      160,
+      161
+    ]
+  },
+  {
+    "teal": 138,
+    "source": "contracts/CreatorTippingVault.algo.ts:30",
+    "pc": [
+      162,
+      163
+    ]
+  },
+  {
+    "teal": 139,
+    "source": "contracts/CreatorTippingVault.algo.ts:30",
+    "pc": [
+      164,
+      165
+    ]
+  },
+  {
+    "teal": 143,
+    "source": "contracts/CreatorTippingVault.algo.ts:33",
+    "pc": [
+      166,
+      167
+    ]
+  },
+  {
+    "teal": 144,
+    "source": "contracts/CreatorTippingVault.algo.ts:33",
+    "pc": [
+      168,
+      169
+    ]
+  },
+  {
+    "teal": 145,
+    "source": "contracts/CreatorTippingVault.algo.ts:33",
+    "pc": [
+      170
+    ]
+  },
+  {
+    "teal": 146,
+    "source": "contracts/CreatorTippingVault.algo.ts:33",
+    "pc": [
+      171
+    ]
+  },
+  {
+    "teal": 147,
+    "source": "contracts/CreatorTippingVault.algo.ts:33",
+    "pc": [
+      172
+    ]
+  },
+  {
+    "teal": 148,
+    "source": "contracts/CreatorTippingVault.algo.ts:33",
+    "pc": [
+      173,
+      174
+    ]
+  },
+  {
+    "teal": 152,
+    "source": "contracts/CreatorTippingVault.algo.ts:34",
+    "pc": [
+      175,
+      176
+    ]
+  },
+  {
+    "teal": 153,
+    "source": "contracts/CreatorTippingVault.algo.ts:34",
+    "pc": [
+      177,
+      178
+    ]
+  },
+  {
+    "teal": 154,
+    "source": "contracts/CreatorTippingVault.algo.ts:34",
+    "pc": [
+      179
+    ]
+  },
+  {
+    "teal": 155,
+    "source": "contracts/CreatorTippingVault.algo.ts:34",
+    "pc": [
+      180
+    ]
+  },
+  {
+    "teal": 156,
+    "source": "contracts/CreatorTippingVault.algo.ts:34",
+    "pc": [
+      181
+    ]
+  },
+  {
+    "teal": 157,
+    "source": "contracts/CreatorTippingVault.algo.ts:34",
+    "pc": [
+      182,
+      183
+    ]
+  },
+  {
+    "teal": 161,
+    "source": "contracts/CreatorTippingVault.algo.ts:35",
+    "pc": [
+      184,
+      185
+    ]
+  },
+  {
+    "teal": 162,
+    "source": "contracts/CreatorTippingVault.algo.ts:35",
+    "pc": [
+      186,
+      187
+    ]
+  },
+  {
+    "teal": 163,
+    "source": "contracts/CreatorTippingVault.algo.ts:35",
+    "pc": [
+      188
+    ]
+  },
+  {
+    "teal": 164,
+    "source": "contracts/CreatorTippingVault.algo.ts:35",
+    "pc": [
+      189,
+      190
+    ]
+  },
+  {
+    "teal": 165,
+    "source": "contracts/CreatorTippingVault.algo.ts:35",
+    "pc": [
+      191
+    ]
+  },
+  {
+    "teal": 166,
+    "source": "contracts/CreatorTippingVault.algo.ts:35",
+    "pc": [
+      192,
+      193
+    ]
+  },
+  {
+    "teal": 173,
+    "source": "contracts/CreatorTippingVault.algo.ts:38",
+    "pc": [
+      194
+    ]
+  },
+  {
+    "teal": 174,
+    "source": "contracts/CreatorTippingVault.algo.ts:38",
+    "pc": [
+      195
+    ]
+  },
+  {
+    "teal": 175,
+    "source": "contracts/CreatorTippingVault.algo.ts:38",
+    "pc": [
+      196,
+      197
+    ]
+  },
+  {
+    "teal": 179,
+    "source": "contracts/CreatorTippingVault.algo.ts:39",
+    "pc": [
+      198
+    ]
+  },
+  {
+    "teal": 180,
+    "source": "contracts/CreatorTippingVault.algo.ts:39",
+    "pc": [
+      199
+    ]
+  },
+  {
+    "teal": 181,
+    "source": "contracts/CreatorTippingVault.algo.ts:39",
+    "pc": [
+      200,
+      201
+    ]
+  },
+  {
+    "teal": 185,
+    "source": "contracts/CreatorTippingVault.algo.ts:40",
+    "pc": [
+      202,
+      203
+    ]
+  },
+  {
+    "teal": 186,
+    "source": "contracts/CreatorTippingVault.algo.ts:40",
+    "pc": [
+      204,
+      205
+    ]
+  },
+  {
+    "teal": 189,
+    "source": "contracts/CreatorTippingVault.algo.ts:38",
+    "pc": [
+      206
+    ]
+  },
+  {
+    "teal": 190,
+    "source": "contracts/CreatorTippingVault.algo.ts:38",
+    "pc": [
+      207,
+      208
+    ]
+  },
+  {
+    "teal": 193,
+    "source": "contracts/CreatorTippingVault.algo.ts:38",
+    "pc": [
+      209
+    ]
+  },
+  {
+    "teal": 200,
+    "source": "contracts/CreatorTippingVault.algo.ts:43",
+    "pc": [
+      210
+    ]
+  },
+  {
+    "teal": 201,
+    "source": "contracts/CreatorTippingVault.algo.ts:43",
+    "pc": [
+      211
+    ]
+  },
+  {
+    "teal": 202,
+    "source": "contracts/CreatorTippingVault.algo.ts:43",
+    "pc": [
+      212,
+      213
+    ]
+  },
+  {
+    "teal": 206,
+    "source": "contracts/CreatorTippingVault.algo.ts:44",
+    "pc": [
+      214
+    ]
+  },
+  {
+    "teal": 207,
+    "source": "contracts/CreatorTippingVault.algo.ts:44",
+    "pc": [
+      215
+    ]
+  },
+  {
+    "teal": 208,
+    "source": "contracts/CreatorTippingVault.algo.ts:44",
+    "pc": [
+      216,
+      217
+    ]
+  },
+  {
+    "teal": 212,
+    "source": "contracts/CreatorTippingVault.algo.ts:45",
+    "pc": [
+      218,
+      219
+    ]
+  },
+  {
+    "teal": 213,
+    "source": "contracts/CreatorTippingVault.algo.ts:45",
+    "pc": [
+      220,
+      221
+    ]
+  },
+  {
+    "teal": 216,
+    "source": "contracts/CreatorTippingVault.algo.ts:43",
+    "pc": [
+      222
+    ]
+  },
+  {
+    "teal": 217,
+    "source": "contracts/CreatorTippingVault.algo.ts:43",
+    "pc": [
+      223,
+      224
+    ]
+  },
+  {
+    "teal": 220,
+    "source": "contracts/CreatorTippingVault.algo.ts:43",
+    "pc": [
+      225
+    ]
+  },
+  {
+    "teal": 227,
+    "source": "contracts/CreatorTippingVault.algo.ts:48",
+    "pc": [
+      226
+    ]
+  },
+  {
+    "teal": 228,
+    "source": "contracts/CreatorTippingVault.algo.ts:48",
+    "pc": [
+      227
+    ]
+  },
+  {
+    "teal": 229,
+    "source": "contracts/CreatorTippingVault.algo.ts:48",
+    "pc": [
+      228,
+      229
+    ]
+  },
+  {
+    "teal": 233,
+    "source": "contracts/CreatorTippingVault.algo.ts:49",
+    "pc": [
+      230
+    ]
+  },
+  {
+    "teal": 234,
+    "source": "contracts/CreatorTippingVault.algo.ts:49",
+    "pc": [
+      231
+    ]
+  },
+  {
+    "teal": 235,
+    "source": "contracts/CreatorTippingVault.algo.ts:49",
+    "pc": [
+      232,
+      233
+    ]
+  },
+  {
+    "teal": 239,
+    "source": "contracts/CreatorTippingVault.algo.ts:50",
+    "pc": [
+      234,
+      235
+    ]
+  },
+  {
+    "teal": 240,
+    "source": "contracts/CreatorTippingVault.algo.ts:50",
+    "pc": [
+      236,
+      237
+    ]
+  },
+  {
+    "teal": 243,
+    "source": "contracts/CreatorTippingVault.algo.ts:48",
+    "pc": [
+      238
+    ]
+  },
+  {
+    "teal": 244,
+    "source": "contracts/CreatorTippingVault.algo.ts:48",
+    "pc": [
+      239,
+      240
+    ]
+  },
+  {
+    "teal": 247,
+    "source": "contracts/CreatorTippingVault.algo.ts:48",
+    "pc": [
+      241
+    ]
+  },
+  {
+    "teal": 252,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      242,
+      243
+    ]
+  },
+  {
+    "teal": 253,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      244
+    ]
+  },
+  {
+    "teal": 254,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      245
+    ]
+  },
+  {
+    "teal": 255,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      246
+    ]
+  },
+  {
+    "teal": 256,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      247,
+      248,
+      249
+    ]
+  },
+  {
+    "teal": 257,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      250
+    ]
+  },
+  {
+    "teal": 258,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      251
+    ]
+  },
+  {
+    "teal": 259,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      252
+    ]
+  },
+  {
+    "teal": 260,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      253
+    ]
+  },
+  {
+    "teal": 261,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      254
+    ]
+  },
+  {
+    "teal": 262,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      255,
+      256,
+      257
+    ]
+  },
+  {
+    "teal": 267,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      258,
+      259
+    ]
+  },
+  {
+    "teal": 268,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      260
+    ]
+  },
+  {
+    "teal": 269,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      261
+    ]
+  },
+  {
+    "teal": 270,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      262
+    ]
+  },
+  {
+    "teal": 271,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      263,
+      264,
+      265
+    ]
+  },
+  {
+    "teal": 272,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      266
+    ]
+  },
+  {
+    "teal": 273,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      267
+    ]
+  },
+  {
+    "teal": 274,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      268,
+      269
+    ]
+  },
+  {
+    "teal": 275,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      270
+    ]
+  },
+  {
+    "teal": 276,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      271
+    ]
+  },
+  {
+    "teal": 277,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      272
+    ]
+  },
+  {
+    "teal": 278,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      273,
+      274,
+      275
+    ]
+  },
+  {
+    "teal": 279,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      276
+    ]
+  },
+  {
+    "teal": 280,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      277
+    ]
+  },
+  {
+    "teal": 281,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      278
+    ]
+  },
+  {
+    "teal": 284,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "errorMessage": "box value does not exist: this.postTips(postId).value",
+    "pc": [
+      279
+    ]
+  },
+  {
+    "teal": 285,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      280
+    ]
+  },
+  {
+    "teal": 286,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      281,
+      282
+    ]
+  },
+  {
+    "teal": 287,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      283
+    ]
+  },
+  {
+    "teal": 288,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      284
+    ]
+  },
+  {
+    "teal": 289,
+    "source": "contracts/CreatorTippingVault.algo.ts:55",
+    "pc": [
+      285
+    ]
+  },
+  {
+    "teal": 290,
+    "source": "contracts/CreatorTippingVault.algo.ts:54",
+    "pc": [
+      286,
+      287,
+      288
+    ]
+  },
+  {
+    "teal": 295,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      289,
+      290
+    ]
+  },
+  {
+    "teal": 296,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      291
+    ]
+  },
+  {
+    "teal": 297,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      292
+    ]
+  },
+  {
+    "teal": 298,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      293
+    ]
+  },
+  {
+    "teal": 299,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      294,
+      295,
+      296
+    ]
+  },
+  {
+    "teal": 300,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      297
+    ]
+  },
+  {
+    "teal": 301,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      298
+    ]
+  },
+  {
+    "teal": 302,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      299,
+      300
+    ]
+  },
+  {
+    "teal": 303,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      301
+    ]
+  },
+  {
+    "teal": 304,
+    "source": "contracts/CreatorTippingVault.algo.ts:57",
+    "pc": [
+      302
+    ]
+  },
+  {
+    "teal": 307,
+    "source": "contracts/CreatorTippingVault.algo.ts:24",
+    "pc": [
+      303
+    ]
+  },
+  {
+    "teal": 312,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      304,
+      305,
+      306,
+      307,
+      308,
+      309
+    ]
+  },
+  {
+    "teal": 315,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      310,
+      311,
+      312
+    ]
+  },
+  {
+    "teal": 316,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      313,
+      314,
+      315
+    ]
+  },
+  {
+    "teal": 319,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      316,
+      317,
+      318
+    ]
+  },
+  {
+    "teal": 320,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      319
+    ]
+  },
+  {
+    "teal": 321,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      320
+    ]
+  },
+  {
+    "teal": 322,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      321
+    ]
+  },
+  {
+    "teal": 323,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      322
+    ]
+  },
+  {
+    "teal": 324,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      323
+    ]
+  },
+  {
+    "teal": 330,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      324,
+      325,
+      326
+    ]
+  },
+  {
+    "teal": 334,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "pc": [
+      327,
+      328
+    ]
+  },
+  {
+    "teal": 335,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "pc": [
+      329
+    ]
+  },
+  {
+    "teal": 336,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "pc": [
+      330
+    ]
+  },
+  {
+    "teal": 337,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "pc": [
+      331
+    ]
+  },
+  {
+    "teal": 338,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "pc": [
+      332,
+      333,
+      334
+    ]
+  },
+  {
+    "teal": 339,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "pc": [
+      335
+    ]
+  },
+  {
+    "teal": 340,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "pc": [
+      336
+    ]
+  },
+  {
+    "teal": 341,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "pc": [
+      337
+    ]
+  },
+  {
+    "teal": 344,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "errorMessage": "box value does not exist: this.postTips(postId).value",
+    "pc": [
+      338
+    ]
+  },
+  {
+    "teal": 345,
+    "source": "contracts/CreatorTippingVault.algo.ts:65",
+    "pc": [
+      339
+    ]
+  },
+  {
+    "teal": 346,
+    "source": "contracts/CreatorTippingVault.algo.ts:64",
+    "pc": [
+      340
+    ]
+  },
+  {
+    "teal": 349,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      341,
+      342,
+      343,
+      344,
+      345,
+      346
+    ]
+  },
+  {
+    "teal": 350,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      347,
+      348,
+      349
+    ]
+  },
+  {
+    "teal": 351,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      350,
+      351,
+      352,
+      353
+    ]
+  },
+  {
+    "teal": 354,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "errorMessage": "this contract does not implement the given ABI method for create NoOp",
+    "pc": [
+      354
+    ]
+  },
+  {
+    "teal": 357,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      355,
+      356,
+      357,
+      358,
+      359,
+      360
+    ]
+  },
+  {
+    "teal": 358,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      361,
+      362,
+      363,
+      364,
+      365,
+      366
+    ]
+  },
+  {
+    "teal": 359,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      367,
+      368,
+      369
+    ]
+  },
+  {
+    "teal": 360,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "pc": [
+      370,
+      371,
+      372,
+      373,
+      374,
+      375
+    ]
+  },
+  {
+    "teal": 363,
+    "source": "contracts/CreatorTippingVault.algo.ts:3",
+    "errorMessage": "this contract does not implement the given ABI method for call NoOp",
+    "pc": [
+      376
+    ]
+  }
+]
